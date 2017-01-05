@@ -1,0 +1,31 @@
+article {
+    display: inline-block;
+    width: 30%;
+    margin: 1%;
+    padding: 0.25%;
+    border: 1px solid lightblue;
+}
+
+header {
+    border: 1px dotted lightblue;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+#description p {
+    text-align: justify;
+    padding: 0 1%;
+}
+
+#priceing {
+    font-weight: bold;
+}
+
+h5 {
+    color: yellow;
+    background-color: darkgrey;
+}
